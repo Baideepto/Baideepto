@@ -90,7 +90,11 @@
     </td>
   </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baideepto&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" width="820" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baideepto/baideepto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baideepto/baideepto/output/github-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/baideepto/baideepto/output/github-snake.svg" />
+</picture>
 </div>
 
 
