@@ -85,11 +85,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <img width="400" height="195" src="https://streak-stats.demolab.com/?user=baideepto&theme=radical&hide_border=false" alt="GitHub streak" />
-    </td>
-    <td align="center" width="50%">
-      <img width="400" height="195" src="https://github-profile-trophy.vercel.app/?username=baideepto&theme=radical&no-frame=true&row=2&column=3&margin-w=4&margin-h=4" alt="Trophies" />
     </td>
   </tr>
 </table>
