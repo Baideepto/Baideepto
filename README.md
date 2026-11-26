@@ -107,18 +107,29 @@
 </div>
 
 ## 📌 Featured Projects
-
+ 
 <!-- Replace repo names with your best projects -->
 <div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Promtify&theme=radical)](https://github.com/baideepto/Promtify)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Staymore&theme=radical)](https://github.com/baideepto/Staymore)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Emotion_Recognition&theme=radical)](https://github.com/baideepto/Emotion_Recognition)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=chit-chat&theme=radical)](https://github.com/baideepto/chit-chat)
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/baideepto/Promtify"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Promtify&theme=radical&description_lines_count=2" alt="Promtify" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/baideepto/Staymore"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Staymore&theme=radical&description_lines_count=2" alt="Staymore" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/baideepto/Emotion_Recognition"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Emotion_Recognition&theme=radical&description_lines_count=2" alt="Emotion Recognition" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/baideepto/chit-chat"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=chit-chat&theme=radical&description_lines_count=2" alt="chit-chat" /></a>
+    </td>
+  </tr>
+</table>
 </div>
 
----
 
 <div align="center">
 
