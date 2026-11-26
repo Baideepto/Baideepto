@@ -73,17 +73,29 @@
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=baideepto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baideepto&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=baideepto&theme=radical&hide_border=false" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baideepto&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=baideepto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&hide_border=false" alt="GitHub stats" />
+    </td>
+    <td align="center" width="50%">
+      <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baideepto&layout=compact&theme=radical&langs_count=8&card_width=400&hide_border=false" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="400" height="195" src="https://streak-stats.demolab.com/?user=baideepto&theme=radical&hide_border=false" alt="GitHub streak" />
+    </td>
+    <td align="center" width="50%">
+      <img width="400" height="195" src="https://github-profile-trophy.vercel.app/?username=baideepto&theme=radical&no-frame=true&row=2&column=3&margin-w=4&margin-h=4" alt="Trophies" />
+    </td>
+  </tr>
+</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baideepto&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" width="820" />
 </div>
+
 
 ## 🏆 Trophies
 
