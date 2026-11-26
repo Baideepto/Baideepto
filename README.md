@@ -98,8 +98,8 @@
 <!-- Replace repo names with your best projects -->
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=REPO_NAME_1&theme=radical)](https://github.com/baideepto/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=REPO_NAME_2&theme=radical)](https://github.com/baideepto/REPO_NAME_2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Promtify&theme=radical)](https://github.com/baideepto/Promtify)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Staymore&theme=radical)](https://github.com/baideepto/Staymore)
 
 </div>
 
