@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Baideepta+%F0%9F%91%8B;B.Tech+Student+%26+Web+Developer;Exploring+Web+3.0+%26+AI;Mountain+Trekker+%F0%9F%8F%94%EF%B8%8F+%7C+Sports+Lover+%E2%9A%BD%F0%9F%8F%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Baideepto+%F0%9F%91%8B;B.Tech+Student+%26+Web+Developer;Exploring+Web+3.0+%26+AI;Mountain+Trekker+%F0%9F%8F%94%EF%B8%8F+%7C+Sports+Lover+%E2%9A%BD%F0%9F%8F%8F" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=baideepto&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -97,14 +97,6 @@
 </picture>
 </div>
 
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=baideepto&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 📌 Featured Projects
  
