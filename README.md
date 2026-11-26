@@ -113,6 +113,8 @@
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Promtify&theme=radical)](https://github.com/baideepto/Promtify)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Staymore&theme=radical)](https://github.com/baideepto/Staymore)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=Emotion_Recognition&theme=radical)](https://github.com/baideepto/Emotion_Recognition)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=baideepto&repo=chit-chat&theme=radical)](https://github.com/baideepto/chit-chat)
 
 </div>
 
